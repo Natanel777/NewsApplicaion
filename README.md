@@ -23,8 +23,9 @@ The application is written in Kotlin and follows Clean Architecture principles, 
 - Flow for reactive programming.
 
 ## Screenshots
-| [![Screen1](https://raw.githubusercontent.com/Natanel777/NewsApplicaion/main/screenShots/news1.jpg)]() | [![Screen2](https://raw.githubusercontent.com/Natanel777/NewsApplicaion/main/screenShots/news2.jpg)]() | [![Screen3](https://raw.githubusercontent.com/Natanel777/NewsApplicaion/main/screenShots/news3.jpg)]() | [![Screen4](https://raw.githubusercontent.com/Natanel777/NewsApplicaion/main/screenShots/news4.jpg)]() |
-|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| ![Screen1](screenshots/news1.jpg) | ![Screen2](screenshots/news2.jpg) | ![Screen3](screenshots/news3.jpg) | ![Screen4](screenshots/news4.jpg) |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+
 
 ## Technologies Used
 - [Kotlin](https://kotlinlang.org/)
