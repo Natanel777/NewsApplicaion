@@ -23,8 +23,11 @@ The application is written in Kotlin and follows Clean Architecture principles, 
 - Flow for reactive programming.
 
 ## Screenshots
-| ![Screen1](screenshots/news1.jpg) | ![Screen2](screenshots/news2.jpg) | ![Screen3](screenshots/news3.jpg) | ![Screen4](screenshots/news4.jpg) |
+
+| ![Screen1](screenShots/news1.jpg) | ![Screen2](screenShots/news2.jpg) | ![Screen3](screenShots/news3.jpg) | ![Screen4](screenShots/news4.jpg) |
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+
+
 
 
 ## Technologies Used
