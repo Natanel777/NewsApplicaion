@@ -45,7 +45,7 @@ The application is written in Kotlin and follows Clean Architecture principles, 
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MilindAmrutkar/ComposeNewsApplication.git
+   git clone https://github.com/Natanel777/NewsApplicaion.git
    ```
 2. Obtain your API key from News API:
     - Go to [News API](https://newsapi.org/register) and register for an account if you don't have one.
